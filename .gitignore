@@ -1,0 +1,17 @@
+# Build directory
+build
+
+# Test coverage report directory
+coverage
+
+# Node module directory
+node_modules
+
+# NPM log file
+npm-debug.log
+
+# Temp directory
+tmp
+
+# TSD typings directory
+typings

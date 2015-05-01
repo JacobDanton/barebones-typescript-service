@@ -1,0 +1,72 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "vinyl/vinyl.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp-tslint/gulp-tslint.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp-typescript/gulp-typescript.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp/gulp.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "node/node.d.ts": {
+      "commit": "7ca8add069411b3bde47fad7208706801cde8656"
+    },
+    "glob/glob.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "minimatch/minimatch.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "chai/chai.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp-mocha/gulp-mocha.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "gulp-istanbul/gulp-istanbul.d.ts": {
+      "commit": "b0056383b51495b373a32b791de8112fcafe2ace"
+    },
+    "express/express.d.ts": {
+      "commit": "7ca8add069411b3bde47fad7208706801cde8656"
+    },
+    "superagent/superagent.d.ts": {
+      "commit": "7ca8add069411b3bde47fad7208706801cde8656"
+    },
+    "supertest/supertest.d.ts": {
+      "commit": "7ca8add069411b3bde47fad7208706801cde8656"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "7ca8add069411b3bde47fad7208706801cde8656"
+    },
+    "async/async.d.ts": {
+      "commit": "7ca8add069411b3bde47fad7208706801cde8656"
+    },
+    "http-status/http-status.d.ts": {
+      "commit": "7ca8add069411b3bde47fad7208706801cde8656"
+    },
+    "express-validator/express-validator.d.ts": {
+      "commit": "e57df787f4e11601625d7e1c1b2ee351b97a18a1"
+    },
+    "bunyan/bunyan.d.ts": {
+      "commit": "25da006de5de3d2e31252fdc988296c7c212f231"
+    },
+    "sinon-chai/sinon-chai.d.ts": {
+      "commit": "caee0398cbc82b1bd2cc00843d911a664d498c25"
+    },
+    "sinon/sinon.d.ts": {
+      "commit": "caee0398cbc82b1bd2cc00843d911a664d498c25"
+    }
+  }
+}
